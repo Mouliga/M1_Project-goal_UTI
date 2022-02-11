@@ -50,14 +50,14 @@ The Automated Teller Machine(ATM) allows bank customers to access their accounts
  This application was developed in C language to avoid the complexity and to keep it simple.
  
 # High Level Requirements:
- 1 The ATM system  accepts a unique ID from the customer.
- 2 The ATM system  accepts the customer selection for a range of banking transactions.
- 3 The ATM system  accepts the account type from the customer for deposits, balance query, and for payments on account.
- 4 The ATM system accepts an authorized bank employee’s request to open the ATM.
- 5 The ATM system provides the customer a receipt for deposits and withdrawals.
- 6 The ATM system accepts customer requests and provide feedback.
- 7 The ATM system determines ATM responses to inputs received.
- 8 It is desired that ATM communicate with the bank computer to get customer information.
+ 1. The ATM system  accepts a unique ID from the customer.
+ 2. The ATM system  accepts the customer selection for a range of banking transactions.
+ 3. The ATM system  accepts the account type from the customer for deposits, balance query, and for payments on account.
+ 4. The ATM system accepts an authorized bank employee’s request to open the ATM.
+ 5. The ATM system provides the customer a receipt for deposits and withdrawals.
+ 6. The ATM system accepts customer requests and provide feedback.
+ 7. The ATM system determines ATM responses to inputs received.
+ 8. It is desired that ATM communicate with the bank computer to get customer information.
   
 # Low Level Requirements:
   The ATM technicians will install the process in ATM
