@@ -19,7 +19,7 @@ The Automated Teller Machine(ATM) allows bank customers to access their accounts
 # SWOT Analysis:
 
 # Strengthness:
-  *.ATM machines are easy to use
+ ATM machines are easy to use
  The ability to access one's account 24/7 at multiple locations
  
 # Weakness:
