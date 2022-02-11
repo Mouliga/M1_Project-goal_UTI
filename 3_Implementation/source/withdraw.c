@@ -11,7 +11,7 @@ int Withdraw(int wd)
   
   if(Wd<Bal)
   {
-    Bal -= Wd
+    Bal -= Wd;
     printf("Withdrawing money is: %d,wd);
   }
            
