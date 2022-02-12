@@ -10,6 +10,8 @@ int main()
   
   printf(" \n 1.Check Balance\n");
   printf(" \n 2.Withdraw\n");
+  printf(" Enter the choice ");
+  scanf("%d",&c);
   
   if(c==1)
   {
