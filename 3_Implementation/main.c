@@ -4,15 +4,15 @@
 int main()
 {
   int p,balance = 3000, withdraw = 0, deposit,amount=0,c;
-  printf(" INSERT THE CARD");
-  printf(" Enter the PIN number");
+  printf(" \n INSERT THE CARD \n");
+  printf(" \n Enter the PIN number \n");
   scanf("%d",&p);
   
   printf(" \n 1.Check Balance\n");
   printf(" \n 2.Withdraw\n");
 
 S:
-  printf(" Enter the choice ");
+  printf(" \n Enter the choice \n ");
   scanf("%d",&c);
   
   if(c==1)
@@ -23,6 +23,7 @@ S:
   else if(c==2)
   {
     printf("Enter the amount to withdraw");
+    scanf("%d",&amount);
      if(amount > balance)
        printf(" You have insufficient amount");
      else
