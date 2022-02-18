@@ -3,7 +3,7 @@
 
 int main()
 {
-  int p,balance = 3000, withdraw = 0, deposit,amount=0,c;
+  int p,balance = 3000, withdraw = 0, deposit,amount,c;
   printf(" \n INSERT THE CARD \n");
   printf(" \n Enter the PIN number \n");
   scanf("%d",&p);
