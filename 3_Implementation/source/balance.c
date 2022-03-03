@@ -3,9 +3,8 @@
 #include<stdlib.h>
 #include<math.h>
 
-int Balance(int Bal)
-{
-  printf("See your Balance");
-  printf(" \n Available Balance is:\n %d,Bal);
-  return Bal;
-}        
+void checkBalance(float balance) {
+    printf("You Choose to See your Balance\n");
+    printf("\n\n****Your Available Balance is:   $%.2f\n\n", balance);
+
+}    
