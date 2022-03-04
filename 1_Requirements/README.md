@@ -60,6 +60,6 @@ The Automated Teller Machine(ATM) allows bank customers to access their accounts
   8. It is desired that ATM communicate with the bank computer to get customer information.
   
 # Low Level Requirements:
-  1.The ATM technicians will install the process in ATM
-  2.The technicians will repair and service the ATM machines and other electronic office machines that dispense money and allow a customer to check their bank account
+  1. The ATM technicians will install the process in ATM
+  2. The technicians will repair and service the ATM machines and other electronic office machines that dispense money and allow a customer to check their bank account
   
